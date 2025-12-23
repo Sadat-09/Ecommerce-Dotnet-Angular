@@ -1,0 +1,15 @@
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\bin\Debug\net8.0\ECommerceApp.Application.deps.json
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\bin\Debug\net8.0\ECommerceApp.Application.dll
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\bin\Debug\net8.0\ECommerceApp.Application.pdb
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\bin\Debug\net8.0\ECommerceApp.Domain.dll
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\bin\Debug\net8.0\ECommerceApp.Domain.pdb
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\obj\Debug\net8.0\ECommerceApp.Application.csproj.AssemblyReference.cache
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\obj\Debug\net8.0\ECommerceApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\obj\Debug\net8.0\ECommerceApp.Application.AssemblyInfoInputs.cache
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\obj\Debug\net8.0\ECommerceApp.Application.AssemblyInfo.cs
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\obj\Debug\net8.0\ECommerceApp.Application.csproj.CoreCompileInputs.cache
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\obj\Debug\net8.0\ECommerc.708A6477.Up2Date
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\obj\Debug\net8.0\ECommerceApp.Application.dll
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\obj\Debug\net8.0\refint\ECommerceApp.Application.dll
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\obj\Debug\net8.0\ECommerceApp.Application.pdb
+F:\ASP .Net core\ECommerceApp\ECommerceApp.Application\obj\Debug\net8.0\ref\ECommerceApp.Application.dll
