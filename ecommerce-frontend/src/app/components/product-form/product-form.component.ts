@@ -12,7 +12,7 @@ import { Category } from '../../models/category';
   standalone: true,
   imports: [CommonModule, FormsModule, RouterLink],
   templateUrl: './product-form.component.html',
-  styleUrl: './product-form. component.css'
+  styleUrl: './product-form.component.css'
 })
 export class ProductFormComponent implements OnInit {
   product: CreateProductDto | UpdateProductDto = {

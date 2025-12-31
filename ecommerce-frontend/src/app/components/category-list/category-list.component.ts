@@ -8,7 +8,7 @@ import { Category } from '../../models/category';
   selector: 'app-category-list',
   standalone: true,
   imports: [CommonModule, RouterLink],
-  templateUrl: './category-list.component. html',
+  templateUrl: './category-list.component.html',
   styleUrl: './category-list.component.css'
 })
 export class CategoryListComponent implements OnInit {

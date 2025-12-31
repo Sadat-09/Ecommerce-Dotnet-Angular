@@ -9,3 +9,15 @@ F:\ASP .Net core\ECommerceApp\ECommerceApp.Domain\obj\Debug\net8.0\ECommerceApp.
 F:\ASP .Net core\ECommerceApp\ECommerceApp.Domain\obj\Debug\net8.0\refint\ECommerceApp.Domain.dll
 F:\ASP .Net core\ECommerceApp\ECommerceApp.Domain\obj\Debug\net8.0\ECommerceApp.Domain.pdb
 F:\ASP .Net core\ECommerceApp\ECommerceApp.Domain\obj\Debug\net8.0\ref\ECommerceApp.Domain.dll
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\bin\Debug\net8.0\ECommerceApp.Domain.deps.json
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\bin\Debug\net8.0\ECommerceApp.Domain.dll
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\bin\Debug\net8.0\ECommerceApp.Domain.pdb
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\obj\Debug\net8.0\ECommerceApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\obj\Debug\net8.0\ECommerceApp.Domain.AssemblyInfoInputs.cache
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\obj\Debug\net8.0\ECommerceApp.Domain.AssemblyInfo.cs
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\obj\Debug\net8.0\ECommerceApp.Domain.csproj.CoreCompileInputs.cache
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\obj\Debug\net8.0\ECommerceApp.Domain.sourcelink.json
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\obj\Debug\net8.0\ECommerceApp.Domain.dll
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\obj\Debug\net8.0\refint\ECommerceApp.Domain.dll
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\obj\Debug\net8.0\ECommerceApp.Domain.pdb
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\obj\Debug\net8.0\ref\ECommerceApp.Domain.dll

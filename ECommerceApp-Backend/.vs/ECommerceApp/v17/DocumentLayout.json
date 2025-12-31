@@ -1,70 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\ASP .Net core\\ECommerceApp\\",
+  "WorkspaceRootPath": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4F96A9-4501-41B7-BC67-20684D408F35}|ECommerceApp.Domain\\ECommerceApp.Domain.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4F96A9-4501-41B7-BC67-20684D408F35}|ECommerceApp.Domain\\ECommerceApp.Domain.csproj|solutionrelative:ecommerceapp.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp. infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|solutionrelative:ecommerceapp. infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4F96A9-4501-41B7-BC67-20684D408F35}|ECommerceApp.Domain\\ECommerceApp.Domain.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4F96A9-4501-41B7-BC67-20684D408F35}|ECommerceApp.Domain\\ECommerceApp.Domain.csproj|solutionrelative:ecommerceapp.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp. infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp. infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|solutionrelative:ecommerceapp. infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp. infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|solutionrelative:ecommerceapp. infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp.application\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp.api\\ecommerceapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp. infrastructure\\migrations\\20251215185011_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|solutionrelative:ecommerceapp. infrastructure\\migrations\\20251215185011_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp. infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|solutionrelative:ecommerceapp. infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp. infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|solutionrelative:ecommerceapp. infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp. infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|solutionrelative:ecommerceapp. infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4F96A9-4501-41B7-BC67-20684D408F35}|ECommerceApp.Domain\\ECommerceApp.Domain.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4F96A9-4501-41B7-BC67-20684D408F35}|ECommerceApp.Domain\\ECommerceApp.Domain.csproj|solutionrelative:ecommerceapp.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4F96A9-4501-41B7-BC67-20684D408F35}|ECommerceApp.Domain\\ECommerceApp.Domain.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4F96A9-4501-41B7-BC67-20684D408F35}|ECommerceApp.Domain\\ECommerceApp.Domain.csproj|solutionrelative:ecommerceapp.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4F96A9-4501-41B7-BC67-20684D408F35}|ECommerceApp.Domain\\ECommerceApp.Domain.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4F96A9-4501-41B7-BC67-20684D408F35}|ECommerceApp.Domain\\ECommerceApp.Domain.csproj|solutionrelative:ecommerceapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4F96A9-4501-41B7-BC67-20684D408F35}|ECommerceApp.Domain\\ECommerceApp.Domain.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4F96A9-4501-41B7-BC67-20684D408F35}|ECommerceApp.Domain\\ECommerceApp.Domain.csproj|solutionrelative:ecommerceapp.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.application\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE1091-8A8F-4E8C-A63A-C1F002127DA7}|ECommerceApp.Application\\ECommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp.api\\ecommerceapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{1EE227D1-8C48-4DE7-8111-52011AADD501}|ECommerceApp.API\\ECommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\ecommerceapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp. infrastructure\\ecommerceapp. infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|f:\\asp .net core\\ecommerce-angular\\ecommerceapp-backend\\ecommerceapp. infrastructure\\ecommerceapp. infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|solutionrelative:ecommerceapp. infrastructure\\ecommerceapp. infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|f:\\asp .net core\\ecommerceapp\\ecommerceapp. infrastructure\\migrations\\20251215185011_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E94F853E-AB44-484F-8332-723C4523E11C}|ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj|solutionrelative:ecommerceapp. infrastructure\\migrations\\20251215185011_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,39 +94,196 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Domain\\Interfaces\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "ECommerceApp.Domain\\Interfaces\\ICategoryRepository.cs",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Domain\\Interfaces\\ICategoryRepository.cs",
-              "RelativeToolTip": "ECommerceApp.Domain\\Interfaces\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ECommerceApp.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:51:36.819Z"
+              "WhenOpened": "2025-12-27T19:58:53.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp. Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ECommerceApp. Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp. Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "ECommerceApp. Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:57:37.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp. Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerceApp. Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp. Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ECommerceApp. Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:28:40.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp. Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceApp. Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp. Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ECommerceApp. Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:29:15.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251215185011_InitialCreate.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp. Infrastructure\\Migrations\\20251215185011_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ECommerceApp. Infrastructure\\Migrations\\20251215185011_InitialCreate.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp. Infrastructure\\Migrations\\20251215185011_InitialCreate.cs",
+              "RelativeToolTip": "ECommerceApp. Infrastructure\\Migrations\\20251215185011_InitialCreate.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T18:50:11.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.API\\Program.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.API\\Program.cs",
+              "RelativeToolTip": "ECommerceApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T18:43:20.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.Application\\Services\\ProductService.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "ECommerceApp.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA1wGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T18:43:17.765Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.API\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ECommerceApp.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:32:14.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.Application\\Services\\CategoryService.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "ECommerceApp.Application\\Services\\CategoryService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:21:43.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.Application\\DTOs\\CategoryDto.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "ECommerceApp.Application\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:54:01.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IProductRepository.cs",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Domain\\Interfaces\\IProductRepository.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Domain\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "ECommerceApp.Domain\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Domain\\Interfaces\\IProductRepository.cs",
               "RelativeToolTip": "ECommerceApp.Domain\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T12:22:57.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp. Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceApp. Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp. Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ECommerceApp. Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:29:16.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "ECommerceApp.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T13:51:36.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.Domain\\Entities\\Product.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ECommerceApp.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:45:53.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.Domain\\Entities\\Category.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "ECommerceApp.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:45:45.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IProductService.cs",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Application\\Interfaces\\IProductService.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "ECommerceApp.Application\\Interfaces\\IProductService.cs",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\Interfaces\\IProductService.cs",
               "RelativeToolTip": "ECommerceApp.Application\\Interfaces\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -114,84 +291,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Application\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "ECommerceApp.Application\\Services\\ProductService.cs",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Application\\Services\\ProductService.cs",
-              "RelativeToolTip": "ECommerceApp.Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T18:43:17.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Application\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "ECommerceApp.Application\\Services\\CategoryService.cs",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Application\\Services\\CategoryService.cs",
-              "RelativeToolTip": "ECommerceApp.Application\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T12:21:43.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp. Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "ECommerceApp. Infrastructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp. Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "ECommerceApp. Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T12:29:16.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ECommerceApp.API\\Controllers\\ProductController.cs",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ECommerceApp.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T12:32:14.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp. Infrastructure\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "ECommerceApp. Infrastructure\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp. Infrastructure\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "ECommerceApp. Infrastructure\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T12:29:15.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp. Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ECommerceApp. Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp. Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ECommerceApp. Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T12:28:40.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "ICategoryService.cs",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Application\\Interfaces\\ICategoryService.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "ECommerceApp.Application\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Application\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\Interfaces\\ICategoryService.cs",
               "RelativeToolTip": "ECommerceApp.Application\\Interfaces\\ICategoryService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,11 +303,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "UpdateProductDto.cs",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Application\\DTOs\\UpdateProductDto.cs",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\DTOs\\UpdateProductDto.cs",
               "RelativeDocumentMoniker": "ECommerceApp.Application\\DTOs\\UpdateProductDto.cs",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Application\\DTOs\\UpdateProductDto.cs",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\DTOs\\UpdateProductDto.cs",
               "RelativeToolTip": "ECommerceApp.Application\\DTOs\\UpdateProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +315,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.API\\appsettings.json",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.API\\appsettings.json",
               "RelativeDocumentMoniker": "ECommerceApp.API\\appsettings.json",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.API\\appsettings.json",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.API\\appsettings.json",
               "RelativeToolTip": "ECommerceApp.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -223,11 +327,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "ECommerceApp.API.csproj",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.API\\ECommerceApp.API.csproj",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.API\\ECommerceApp.API.csproj",
               "RelativeDocumentMoniker": "ECommerceApp.API\\ECommerceApp.API.csproj",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.API\\ECommerceApp.API.csproj",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.API\\ECommerceApp.API.csproj",
               "RelativeToolTip": "ECommerceApp.API\\ECommerceApp.API.csproj",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -235,39 +339,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20251215185011_InitialCreate.cs",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp. Infrastructure\\Migrations\\20251215185011_InitialCreate.cs",
-              "RelativeDocumentMoniker": "ECommerceApp. Infrastructure\\Migrations\\20251215185011_InitialCreate.cs",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp. Infrastructure\\Migrations\\20251215185011_InitialCreate.cs",
-              "RelativeToolTip": "ECommerceApp. Infrastructure\\Migrations\\20251215185011_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T18:50:11.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "ECommerceApp. Infrastructure.csproj",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj",
+              "DocumentMoniker": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj",
               "RelativeDocumentMoniker": "ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj",
+              "ToolTip": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj",
               "RelativeToolTip": "ECommerceApp. Infrastructure\\ECommerceApp. Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-15T18:43:21.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.API\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerceApp.API\\Program.cs",
-              "ToolTip": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.API\\Program.cs",
-              "RelativeToolTip": "ECommerceApp.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T18:43:20.751Z"
             }
           ]
         }

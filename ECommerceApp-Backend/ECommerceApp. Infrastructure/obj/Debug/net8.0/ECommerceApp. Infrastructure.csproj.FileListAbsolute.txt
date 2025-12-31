@@ -15,3 +15,21 @@ F:\ASP .Net core\ECommerceApp\ECommerceApp. Infrastructure\obj\Debug\net8.0\refi
 F:\ASP .Net core\ECommerceApp\ECommerceApp. Infrastructure\obj\Debug\net8.0\ECommerceApp. Infrastructure.pdb
 F:\ASP .Net core\ECommerceApp\ECommerceApp. Infrastructure\obj\Debug\net8.0\ECommerceApp. Infrastructure.genruntimeconfig.cache
 F:\ASP .Net core\ECommerceApp\ECommerceApp. Infrastructure\obj\Debug\net8.0\ref\ECommerceApp. Infrastructure.dll
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\bin\Debug\net8.0\ECommerceApp. Infrastructure.deps.json
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\bin\Debug\net8.0\ECommerceApp. Infrastructure.runtimeconfig.json
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\bin\Debug\net8.0\ECommerceApp. Infrastructure.dll
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\bin\Debug\net8.0\ECommerceApp. Infrastructure.pdb
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\bin\Debug\net8.0\ECommerceApp.Domain.dll
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\bin\Debug\net8.0\ECommerceApp.Domain.pdb
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\obj\Debug\net8.0\ECommerceApp. Infrastructure.csproj.AssemblyReference.cache
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\obj\Debug\net8.0\ECommerceApp. Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\obj\Debug\net8.0\ECommerceApp. Infrastructure.AssemblyInfoInputs.cache
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\obj\Debug\net8.0\ECommerceApp. Infrastructure.AssemblyInfo.cs
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\obj\Debug\net8.0\ECommerceApp. Infrastructure.csproj.CoreCompileInputs.cache
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\obj\Debug\net8.0\ECommerceApp. Infrastructure.sourcelink.json
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\obj\Debug\net8.0\ECommerc.A0AEB1F7.Up2Date
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\obj\Debug\net8.0\ECommerceApp. Infrastructure.dll
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\obj\Debug\net8.0\refint\ECommerceApp. Infrastructure.dll
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\obj\Debug\net8.0\ECommerceApp. Infrastructure.pdb
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\obj\Debug\net8.0\ECommerceApp. Infrastructure.genruntimeconfig.cache
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp. Infrastructure\obj\Debug\net8.0\ref\ECommerceApp. Infrastructure.dll

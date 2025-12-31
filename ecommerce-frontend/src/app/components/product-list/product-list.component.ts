@@ -7,7 +7,7 @@ import { RouterLink } from '@angular/router';
 @Component({
   selector: 'app-product-list',
   imports: [CommonModule, RouterLink],
-  templateUrl: './product-list.component.html',
+  templateUrl: './product-list.component.html',  
   styleUrl: './product-list.component.css',
   standalone: true
 })

@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Application\\ECommerceApp.Application.csproj",
+      "projectUniqueName": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\ECommerceApp.Application.csproj",
       "projectName": "ECommerceApp.Application",
-      "projectPath": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Application\\ECommerceApp.Application.csproj",
+      "projectPath": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\ECommerceApp.Application.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Application\\obj\\",
+      "outputPath": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj": {
-              "projectPath": "F:\\ASP .Net core\\ECommerceApp\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj"
+            "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj": {
+              "projectPath": "F:\\ASP .Net core\\Ecommerce-Angular\\ECommerceApp-Backend\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj"
             }
           }
         }
