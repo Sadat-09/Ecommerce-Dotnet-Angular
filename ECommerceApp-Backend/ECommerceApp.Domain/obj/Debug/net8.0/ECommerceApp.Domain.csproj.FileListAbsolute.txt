@@ -21,3 +21,4 @@ F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\obj\
 F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\obj\Debug\net8.0\refint\ECommerceApp.Domain.dll
 F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\obj\Debug\net8.0\ECommerceApp.Domain.pdb
 F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\obj\Debug\net8.0\ref\ECommerceApp.Domain.dll
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.Domain\obj\Debug\net8.0\ECommerceApp.Domain.csproj.AssemblyReference.cache

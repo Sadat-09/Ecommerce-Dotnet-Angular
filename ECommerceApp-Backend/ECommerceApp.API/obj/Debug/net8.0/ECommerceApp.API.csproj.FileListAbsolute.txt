@@ -353,3 +353,5 @@ F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.API\obj\Deb
 F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.API\obj\Debug\net8.0\ECommerceApp.API.pdb
 F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.API\obj\Debug\net8.0\ECommerceApp.API.genruntimeconfig.cache
 F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.API\obj\Debug\net8.0\ref\ECommerceApp.API.dll
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\ASP .Net core\Ecommerce-Angular\ECommerceApp-Backend\ECommerceApp.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

@@ -1,9 +1,11 @@
 ﻿using ECommerceApp.Application.DTOs;
 using ECommerceApp.Application.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ECommerceApp.API.Controllers
 {
+    //[Authorize] 
     [Route("api/[controller]")]
     [ApiController]
     public class ProductsController : ControllerBase
